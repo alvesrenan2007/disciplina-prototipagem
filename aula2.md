@@ -1,4 +1,4 @@
-# Trabalho de Prototipagem (2218213)
+# Trabalho da Aula 2 
 
 ## Nome dos integrantes
 - Renan Alves
