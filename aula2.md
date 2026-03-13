@@ -4,7 +4,7 @@
 - Renan Alves
 
 ## Título do Projeto
-- Precificação Automática de Produto
+- Precificação Automática de Inventário para Revenda Multilojas por Empreendedores Inexperientes
 
 ## Lista preliminar de funcionalidades principais
 - Cadastro de produtos
