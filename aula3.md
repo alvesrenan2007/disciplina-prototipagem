@@ -1,7 +1,9 @@
-# Assignment
+# Aula 3
+
+## Proposta da Atividade
 - Criar User Story, definindo persona, pre-condições, pos-condições, fluxo principal e fluxo de exceção para o trabalho da aula 2.
 
-## Body
+## Corpo da atividade
 - Persona: empreendedor que trabalha com revendas por e-commerce.
 - Pré-condições: o usuario precisa ter os dados do produto a ser cadastrado e conhecer todos os encargos que se aplicam sobre os produtos e sobre sua empresa.
 - Pós-condições: o sistema organiza os produtos, vinculando-os com todas as informações pertinentes com base na categoria, nos dados da empreesa e nas lojas cadastradas.
