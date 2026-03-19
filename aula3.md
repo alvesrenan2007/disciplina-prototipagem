@@ -17,3 +17,7 @@
     - O produto pode ter informações incompletas (o sistema pode responder com um erro indicando as informações que faltam);
     - Os valores de tributo e margem de lucro podem não fazer sentido, por exemplo sendo maior que 100% (o sistema pode reforçar a unidade);
     - O cliente pode cadastrar uma loja que não possuem configurações pré-definidas (o sistema pode guiar o usuário em como configurar ele mesmo); 
+
+## Feedback
+- Funcionalidade de cadastrar compras recorrentes (portanto, cadastro de fornecedores
+- Foco maior nos erros de interpretação pela unidade)
