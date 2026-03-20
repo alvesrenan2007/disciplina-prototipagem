@@ -8,4 +8,9 @@ flowchart LR
     margem
     lojas
     relatorio
+
+    produtos --> tributos
+    tributos --> margem
+    margem --> lojas
+    lojas --> relatorio
 ```
