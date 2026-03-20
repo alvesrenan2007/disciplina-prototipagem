@@ -1,6 +1,6 @@
 # Aula 3
 
-## Proposta da Atividade
+## Proposta da Atividade da 1ª Parte
 - Criar User Story, definindo persona, pre-condições, pos-condições, fluxo principal e fluxo de exceção para o trabalho da aula 2.
 
 ## Corpo da atividade
@@ -38,3 +38,6 @@ flowchart LR
     tributos --> margem
     margem --> lojas
 ```
+
+## Proposta da Atividade da 2ª Parte
+- Criar diagrama de casos de uso (UML) destacando usuários, aplicações e vínculos
