@@ -3,14 +3,12 @@
 
 ```mermaid
 flowchart LR
-    subgraph User_A [Empreendedor]
-        cadastro de produtos
-        cadastro de dados padrões
-        vínculos com lojas
-        relatório
+    subgraph Role_A [User]
+        Start --> A1[Submit Order]
+    end
+    subgraph Role_B [System]
+        A1 --> B1[Process Payment]
+        B1 --> B2[Confirm Order]
     end
 
-    subgraph User B [Administrador]
-        cadastro de lojas
-    end
 ``` 
