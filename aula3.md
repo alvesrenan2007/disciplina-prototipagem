@@ -21,3 +21,20 @@
 ## Feedback
 - Funcionalidade de cadastrar compras recorrentes (portanto, cadastro de fornecedores
 - Foco maior nos erros de interpretação pela unidade)
+
+## Fluxograma
+```mermaid
+---
+title: Fluxo Principal
+---
+flowchart LR
+    produtos
+    tributos
+    margem
+    lojas
+    relatorio
+
+    produtos --> tributos
+    tributos --> margem
+    margem --> lojas
+```
